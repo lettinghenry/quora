@@ -1,16 +1,19 @@
 body{
+height: 100%;
+width: 100%;
+margin: 0 auto;
 
 }
 
 #wallpaper{
 background-image: url(bgquora.png);
 width: 1285px; 
-height: 658px;
-margin: 0 auto;
+height: 658px;background-repeat: no-repeat;
+background-size: contain;
 }
 
 #inner{
 width:650px;
 height:658px;
-background-color: azure;
+margin: 0 auto;
 }
