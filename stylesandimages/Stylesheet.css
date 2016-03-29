@@ -56,7 +56,6 @@ height: 100%;
  font-size: 9px;
 font-family: monospace;
 color: gray;
-background-color: aliceblue;
 }
 #signin{
 float: left;
@@ -81,14 +80,22 @@ padding-left:5px;
     text-decoration: none;
     color: grey;
 }
+#footer a:hover{
+    text-decoration: underline black;
+}
 .dt{
    margin-bottom: 10px; 
    margin-top: 10px; 
 }
 table{
+    margin-top: 13px;
     height: 100%;
 }
 button{
-    background-color: darkblue;
-    color: grey;
+    background-color: dodgerblue;
+    color: white;
+    border-radius: 4px;
+    border-style: hidden;
+    float: right;
+    margin-top: 16px;
 }
