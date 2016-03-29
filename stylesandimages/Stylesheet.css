@@ -14,6 +14,17 @@ background-size: contain;
 
 #inner{
 width:650px;
-height:658px;
+height:645px;
 margin: 0 auto;
+padding-top: 13px;
+}
+
+#logo{
+width: 160px;
+height: 56px;
+margin: 0 auto;
+}
+#logo img{
+width: 160px;
+height: 48px;   
 }
