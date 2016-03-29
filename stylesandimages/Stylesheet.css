@@ -43,25 +43,52 @@ text-align: center;
 #container{
 margin: 0 auto;
 height: 218.2px;
-padding: 24px;
-width: 450px;
+padding: 34px;
+width: 480px;
 border:1px solid lightgrey;
 background-color: white;
 border-radius: 5px;
-box-shadow: 0px 1px 0px 0px lightgray;
+box-shadow: 0px 1px 0px 0px silver;
 }
 .siders{
- width:208px;
+ width:212px;
 height: 100%;
- font-size: 12px;
+ font-size: 9px;
 font-family: monospace;
+color: gray;
+background-color: aliceblue;
 }
 #signin{
-  float: left;
-  padding-right:16px;
+float: left;
+padding-right:5px;
 border-right: 1px solid darkgrey;
 }
 #login{
- float: right;
-padding-left:16px;
+float: right;
+padding-left:5px;
+}
+#footer{
+    padding-top: 6px;
+    height: auto;
+    width: 650px;
+    margin: 0 auto;
+    text-align: center;
+    font-family: monospace;
+    font-size: 9px;
+    color: grey;
+}
+#footer a{
+    text-decoration: none;
+    color: grey;
+}
+.dt{
+   margin-bottom: 10px; 
+   margin-top: 10px; 
+}
+table{
+    height: 100%;
+}
+button{
+    background-color: darkblue;
+    color: grey;
 }
