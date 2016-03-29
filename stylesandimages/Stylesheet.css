@@ -28,3 +28,28 @@ margin: 0 auto;
 width: 160px;
 height: 48px;   
 }
+
+#tagline{
+font-family:;
+height: 24.7px;
+width: 634px;
+margin: 8.2px 0 16.4px 16px;
+font-size:18px; 
+text-align: center;
+}
+
+#container{
+height: 248.2px;
+margin: 24px;
+width: 602px;
+background-color: aqua;
+}
+.siders{
+  
+}
+#login{
+    
+}
+#signin{
+    
+}
