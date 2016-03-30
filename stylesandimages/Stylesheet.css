@@ -156,14 +156,24 @@ color: white;
     margin-bottom: 8px
 }
 #inter{
- color: darkgrey;
+ color: darkgray;
 font-family: "Nimbus Sans L"; 
 font-size: 12px;
 }
 #inter a{
     text-decoration: none;
- color: darkgrey;
+ color: darkgray;
 }
-a #thison{
-    color: dodgerblue;
+#inter a:hover{
+text-decoration: underline;
+text-decoration-color: gray
+
+}
+.grt{
+    color: blue;
+}
+.grt:hover{
+    color: blue;
+    text-decoration-color: blue;
+    text-decoration: underline;
 }
