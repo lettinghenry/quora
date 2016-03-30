@@ -73,7 +73,7 @@ font-family: "Nimbus Sans L";
 
 }
 #footer{
-    padding-top: 6px;
+    padding-top: 12px;
     height: auto;
     width: 650px;
     margin: 0 auto;
@@ -120,4 +120,24 @@ button:hover{
 td a{
     color:dimgray;
     text-decoration: none;
+}
+
+.sign{
+    padding-top: 10px;
+    width: 97%;
+    height:30px;
+    text-align: center;
+    font-size: 15px;
+    color: white;
+    font-family:"Nimbus Sans L";
+    border-radius: 4px;
+}
+
+#g{
+ margin-bottom: 20px; 
+background-color: red;
+}
+
+#f{
+ background-color: cornflowerblue;   
 }
